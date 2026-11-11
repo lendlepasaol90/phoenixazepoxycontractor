@@ -1,0 +1,19 @@
+{
+  "name": "phoenixazepoxycontractor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Phoenix AZ Epoxy Contractor website — static site served by a Cloudflare Worker",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "check": "node src/build.mjs && node scripts/check.mjs",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

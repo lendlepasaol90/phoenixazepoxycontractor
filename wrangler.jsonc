@@ -1,0 +1,23 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "phoenixazepoxycontractor",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-11-01",
+  // Builds the static site into ./dist before every `wrangler deploy` / `wrangler dev`.
+  "build": {
+    "command": "node src/build.mjs"
+  },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  // Custom domain: add phoenixazepoxycontractor.com (and www) under
+  // Workers & Pages → phoenixazepoxycontractor → Settings → Domains & Routes.
+  "observability": {
+    "enabled": true
+  }
+  // Optional lead storage. Create a KV namespace and uncomment:
+  // "kv_namespaces": [{ "binding": "LEADS", "id": "<namespace-id>" }]
+}

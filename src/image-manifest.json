@@ -1,0 +1,294 @@
+{
+ "auto-shop-lifts": {
+  "r": 1.5764,
+  "big": false
+ },
+ "basement-living": {
+  "r": 1.5,
+  "big": false
+ },
+ "cacti-wall": {
+  "r": 1.5484,
+  "big": false
+ },
+ "camelback": {
+  "r": 1.3352,
+  "big": true
+ },
+ "car-showroom": {
+  "r": 1.5,
+  "big": false
+ },
+ "classic-garage": {
+  "r": 1.5,
+  "big": false
+ },
+ "clinic-corridor": {
+  "r": 1.3333,
+  "big": false
+ },
+ "concrete-texture": {
+  "r": 1.4977,
+  "big": false
+ },
+ "corridor-gloss": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-commercial": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-metallic": {
+  "r": 1.4977,
+  "big": false
+ },
+ "crew-pour": {
+  "r": 1.5789,
+  "big": false
+ },
+ "crew-prep": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-primer": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-rolling": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-spikes": {
+  "r": 1.8321,
+  "big": false
+ },
+ "crew-spread": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-squeegee": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-sweep": {
+  "r": 1.5,
+  "big": false
+ },
+ "crew-trowel": {
+  "r": 1.5142,
+  "big": false
+ },
+ "desert-home": {
+  "r": 2.3188,
+  "big": false
+ },
+ "desert-twilight": {
+  "r": 1.6813,
+  "big": true
+ },
+ "factory-mezzanine": {
+  "r": 1.5,
+  "big": false
+ },
+ "flake-texture-grey": {
+  "r": 1.5094,
+  "big": false
+ },
+ "flake-texture-tan": {
+  "r": 1.5,
+  "big": false
+ },
+ "flake-texture-terracotta": {
+  "r": 1.3333,
+  "big": false
+ },
+ "fleet-hall": {
+  "r": 1.5,
+  "big": false
+ },
+ "floor-stripes": {
+  "r": 1.5,
+  "big": false
+ },
+ "game-room": {
+  "r": 1.5,
+  "big": false
+ },
+ "garage-bare-before-2": {
+  "r": 1.5,
+  "big": false
+ },
+ "garage-bare-before": {
+  "r": 1.5,
+  "big": false
+ },
+ "garage-flake-gym": {
+  "r": 1.5047,
+  "big": true
+ },
+ "garage-flake-white": {
+  "r": 1.5,
+  "big": false
+ },
+ "garage-storage-before": {
+  "r": 1.5,
+  "big": false
+ },
+ "grinder-crew": {
+  "r": 1.5,
+  "big": false
+ },
+ "grinder-outdoor": {
+  "r": 1.5,
+  "big": false
+ },
+ "hall-gloss": {
+  "r": 1.4977,
+  "big": false
+ },
+ "hangar": {
+  "r": 0.6676,
+  "big": false
+ },
+ "home-gym": {
+  "r": 1.5,
+  "big": false
+ },
+ "kitchen-commercial": {
+  "r": 1.5,
+  "big": false
+ },
+ "laundry": {
+  "r": 1.1429,
+  "big": false
+ },
+ "metallic-lobby": {
+  "r": 1.5,
+  "big": false
+ },
+ "metallic-room-2": {
+  "r": 1.5,
+  "big": false
+ },
+ "metallic-room": {
+  "r": 1.5,
+  "big": true
+ },
+ "metallic-texture-caramel": {
+  "r": 1.5,
+  "big": false
+ },
+ "metallic-texture-gold": {
+  "r": 2.1573,
+  "big": false
+ },
+ "metallic-texture-silver": {
+  "r": 0.6644,
+  "big": false
+ },
+ "monsoon": {
+  "r": 1.8321,
+  "big": false
+ },
+ "moto-garage": {
+  "r": 1.5,
+  "big": false
+ },
+ "mudroom": {
+  "r": 1.5,
+  "big": false
+ },
+ "office-before": {
+  "r": 1.5,
+  "big": false
+ },
+ "patio-before": {
+  "r": 1.5,
+  "big": false
+ },
+ "patio-covered": {
+  "r": 1.5,
+  "big": false
+ },
+ "patio-gray": {
+  "r": 1.5,
+  "big": false
+ },
+ "patio-lounge": {
+  "r": 1.5,
+  "big": false
+ },
+ "patio-pool": {
+  "r": 1.5,
+  "big": false
+ },
+ "pebble-concrete": {
+  "r": 1.5,
+  "big": false
+ },
+ "retail": {
+  "r": 1.5,
+  "big": false
+ },
+ "salon": {
+  "r": 1.5509,
+  "big": false
+ },
+ "shop-reflect": {
+  "r": 1.5,
+  "big": false
+ },
+ "showroom-gloss": {
+  "r": 1.9162,
+  "big": true
+ },
+ "sports-garage": {
+  "r": 1.7778,
+  "big": false
+ },
+ "warehouse-crew": {
+  "r": 1.5,
+  "big": false
+ },
+ "warehouse-gloss": {
+  "r": 1.5,
+  "big": false
+ },
+ "warehouse-racking": {
+  "r": 1.5,
+  "big": false
+ },
+ "warehouse-shine": {
+  "r": 1.5,
+  "big": false
+ },
+ "render-garage-before": {
+  "r": 1.6,
+  "big": false
+ },
+ "render-garage-flake": {
+  "r": 1.6,
+  "big": false
+ },
+ "render-garage-metallic": {
+  "r": 1.6,
+  "big": false
+ },
+ "render-showroom-before": {
+  "r": 1.6,
+  "big": false
+ },
+ "render-showroom-after": {
+  "r": 1.6,
+  "big": false
+ },
+ "render-warehouse-before": {
+  "r": 1.6,
+  "big": false
+ },
+ "render-warehouse-after": {
+  "r": 1.6,
+  "big": false
+ }
+}

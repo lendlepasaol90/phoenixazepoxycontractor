@@ -1,0 +1,137 @@
+export default {
+  slug: 'industrial-epoxy-flooring',
+  navLabel: 'Industrial Epoxy Flooring',
+  menuNote: 'Manufacturing, fleet bays, hangars and plants',
+  title: 'Industrial Epoxy Flooring Phoenix AZ | Heavy-Duty Floor Coating Systems',
+  description:
+    'Heavy-duty industrial epoxy, urethane cement and novolac floors in Phoenix for manufacturing, fleet maintenance, hangars and workshops. Engineered prep, phased installs, free estimates.',
+  h1: 'Industrial epoxy flooring built around loads, chemicals and uptime',
+  serviceType: 'Industrial floor coating',
+  hero: {
+    variant: 'band',
+    img: 'fleet-hall',
+    alt: 'Large industrial maintenance hall with a truck, forklifts and yellow floor markings',
+    lede: 'Industrial floors are judged by how little attention they need once the plant is running. We design them from the operation backward: what rolls across the slab, what spills on it, how it is cleaned and how much downtime the schedule can absorb.',
+  },
+  facts: [
+    ['Facilities', 'Manufacturing, fleet bays, hangars, workshops, plants'],
+    ['Systems', 'High-build epoxy, mortar, urethane cement, novolac'],
+    ['Delivery', 'Phased installs, weekend shutdowns, documented QC'],
+  ],
+  card: {
+    img: 'factory-mezzanine',
+    alt: 'Industrial floor with mezzanine and marked lanes',
+    blurb: 'Heavy-duty systems for manufacturing, fleet maintenance, hangars and plants.',
+  },
+  blocks: [
+    {
+      type: 'prose',
+      h2: 'Industrial floors are an operating decision',
+      body: [
+        'In a production space, the floor is equipment. When it fails, forklifts start bouncing over spalled joints, dust gets into products and processes, chemical spills soak into the slab, and maintenance teams spend time on patching instead of the work they were hired for. A good industrial floor does the opposite: it disappears into the background for years.',
+        'That makes the decision less about color and more about matching chemistry and thickness to the conditions. A light-duty assembly area, a fleet maintenance bay and a chemical storage room all need different systems. Choosing one floor for an entire facility usually means overspending in some areas and under-building in others, so we often zone large buildings and specify each area on its own. A zoned plan also makes future maintenance simpler, because each area can be refreshed on its own schedule.',
+      ],
+      aside: {
+        title: 'Working from a specification?',
+        body: ['If an architect, engineer or corporate standard already specifies a system, we will price to it and flag anything about the slab or schedule that could affect performance.'],
+      },
+    },
+    {
+      type: 'table',
+      h2: 'Industrial systems and where they fit',
+      intro: 'Thicknesses below are general ranges. Final builds depend on traffic, slab condition and the manufacturer system selected.',
+      head: ['System', 'Typical build', 'Strengths', 'Common areas'],
+      rows: [
+        ['High-build epoxy (roll or squeegee)', 'Roughly 10–30 mils', 'Cost-effective, bright, easy to clean', 'Light assembly, storage, warehouses'],
+        ['Broadcast epoxy (sand or quartz)', 'Roughly 1/16–1/8 in.', 'Impact resistance and built-in texture', 'Production floors, ramps, wet areas'],
+        ['Troweled epoxy mortar', 'Roughly 1/4 in. and up', 'Highest impact and abrasion resistance', 'Heavy manufacturing, steel-wheel traffic, repairs'],
+        ['Urethane cement', 'Roughly 1/8–3/8 in.', 'Thermal shock, moisture tolerance, steam cleaning', 'Food and beverage, washdown areas, hot processes'],
+        ['Novolac epoxy topcoat', 'Varies by system', 'Strong acid and solvent resistance', 'Battery charging, chemical storage, containment'],
+      ],
+      note: 'A mil is one-thousandth of an inch. We verify wet film thickness during application and document coverage rates on larger projects.',
+    },
+    {
+      type: 'list',
+      h2: 'What breaks industrial floors',
+      intro: 'Most failures we are asked to evaluate come back to a mismatch between the floor and one of these conditions.',
+      img: 'warehouse-crew',
+      alt: 'Workers in safety vests reviewing a glossy industrial floor near tall windows',
+      items: [
+        { h3: 'Forklift and pallet jack traffic', body: 'Hard polyurethane wheels concentrate load on a small contact patch. Thin coatings scuff and wear through in turning lanes first.' },
+        { h3: 'Joints and edges', body: 'Unprotected joint edges chip under wheels and then spread. Joints are rebuilt with semi-rigid filler and coatings are terminated cleanly at them.' },
+        { h3: 'Chemical exposure', body: 'Hydraulic fluid, coolants, solvents, acids and caustic cleaners each attack coatings differently. We ask for the chemical list and choose resistance accordingly.' },
+        { h3: 'Heat and thermal shock', body: 'Hot water washdown, ovens and process heat can crack standard epoxy. Urethane cement handles rapid temperature changes far better.' },
+        { h3: 'Moisture vapor from below', body: 'Many slabs on grade carry moisture. Without testing and the right primer, a perfectly applied coating can blister or delaminate.' },
+        { h3: 'Unconditioned buildings', body: 'Phoenix warehouses without cooling can see slab and air temperatures well above what many products are designed to be applied in. We schedule for the coolest hours and select products rated for the conditions.' },
+      ],
+    },
+    {
+      type: 'split',
+      h2: 'Industrial preparation: grinding, blasting and repair',
+      flip: true,
+      img: 'grinder-outdoor',
+      alt: 'Large walk-behind concrete grinder with dust shroud working on a slab',
+      body: [
+        'Industrial prep is heavier than residential prep. Depending on the slab and the system, we use large planetary grinders, shot blasting or scarifying to remove old coatings, contaminants and weak concrete and to produce the surface profile the coating manufacturer calls for.',
+        'Oil-saturated areas around machinery may need to be cut out or treated with oil-tolerant primers. Spalled joints are rebuilt with epoxy mortar or polyurea joint filler. Badly damaged sections can be resurfaced before the coating system goes down.',
+        'Moisture testing is standard. Readings decide whether a conventional primer is acceptable or whether a moisture vapor mitigation primer is needed, and that decision is documented before coating begins.',
+      ],
+      list: ['Grinding, shot blasting or scarifying to the specified profile', 'Oil-contaminated zones treated or removed', 'Joint rebuilding and spall repair', 'Moisture testing with results recorded'],
+    },
+    {
+      type: 'cards',
+      h2: 'Facilities we coat',
+      cols: 3,
+      items: [
+        { img: 'factory-mezzanine', alt: 'Production space with mezzanine', h3: 'Manufacturing and assembly', body: 'Zoned systems: tougher builds in production lanes, lighter coatings in storage and support areas, and marked walkways tying them together.' },
+        { img: 'hangar', alt: 'Small aircraft parked in a hangar with a blue floor', h3: 'Hangars and fleet maintenance', body: 'Bright, reflective floors improve visibility under aircraft and vehicles, and chemical-resistant topcoats handle fuel, oil and hydraulic fluid.' },
+        { img: 'auto-shop-lifts', alt: 'Service bays with lifts', h3: 'Workshops and service bays', body: 'Lift outlines, bay numbers and tool-zone markings built into the coating, with texture where floors get wet.' },
+      ],
+    },
+    {
+      type: 'steps',
+      h2: 'How we run an industrial project',
+      steps: [
+        { h3: 'Site survey', body: 'Walk the facility with operations, map traffic and chemicals, test moisture and assess joints and damage.' },
+        { h3: 'System proposal', body: 'Zone-by-zone system selection with product data and safety data sheets available for your review.' },
+        { h3: 'Phasing plan', body: 'Sequence and shutdown windows agreed with your team so production and shipping keep moving.' },
+        { h3: 'Mockup if needed', body: 'A sample area for color, texture and slip resistance sign-off before full production.' },
+        { h3: 'Installation and QC', body: 'Surface profile, mix ratios, film thickness and cure conditions checked and recorded as we go.' },
+        { h3: 'Handover', body: 'Return-to-service times, cleaning recommendations and documentation for your maintenance records.' },
+      ],
+    },
+    {
+      type: 'prose',
+      h2: 'Cleaning, maintenance and the life of an industrial floor',
+      body: [
+        'How a floor is cleaned has as much effect on its life as how it is installed. Auto-scrubbers with aggressive pads, strong caustic degreasers and pressure washing at close range all wear on coatings over time. Before selecting a system, we ask what your crews use and how often, and we choose topcoats that tolerate that regime. Where cleaning methods could be adjusted for a longer-lasting floor, we will suggest it.',
+        'Wear in industrial buildings is rarely even. Turning areas at aisle ends, dock plates, forklift charging stations and the paths in and out of production cells take most of the abuse. Planning for maintenance means identifying those zones in advance and accepting that they will need a refresh coat before the rest of the floor does. Recoating a worn lane is quick and inexpensive compared with replacing a failed system.',
+        'Damage should be repaired early. A small chip at a joint edge becomes a spall once forklift wheels start hitting it. Catching it when it is small keeps the repair simple and keeps equipment from taking the impact.',
+      ],
+    },
+    {
+      type: 'callout',
+      h2: 'Safety during installation',
+      body: [
+        'Coating work involves dust, solvents and slippery surfaces. On industrial sites we follow your safety orientation, keep work zones barricaded and signed, use dust extraction on all grinding and keep safety data sheets on site for every product in use.',
+      ],
+    },
+  ],
+  faqs: [
+    { q: 'Can you install while our facility is operating?', a: ['Often, yes. Large facilities are usually phased, with zones taped off and coated in sequence. Fast-cure products can shorten the time each zone is out of service. We will work out the plan with your operations team.'] },
+    { q: 'How do you handle oil-soaked concrete around machines?', a: ['Light contamination can often be ground out and degreased. Heavily saturated concrete may need oil-tolerant primers or, in the worst areas, removal and patching. We test these spots before committing to a system.'] },
+    { q: 'Is industrial epoxy slippery?', a: ['Smooth high-gloss finishes can be slippery when wet or oily. Broadcast systems and aggregate in the topcoat add grip. Texture is selected based on what ends up on the floor and how it is cleaned.'] },
+    { q: 'What about line striping and safety markings?', a: ['We can lay out aisles, pedestrian walkways, hazard zones and equipment outlines in durable coating colors. Your safety team decides the layout and color conventions; we build them into the floor.'] },
+    { q: 'How long do industrial floors last before recoating?', a: ['It depends heavily on traffic and chemicals. Many floors only need a fresh topcoat in the highest-wear lanes after several years, which is much less disruptive than a full replacement if the base system is sound.'] },
+    { q: 'Do you provide product data and safety data sheets?', a: ['Yes. For commercial and industrial work we can provide manufacturer product data sheets and safety data sheets for the materials in the proposed system, so your safety and facilities teams can review them before work begins.'] },
+    { q: 'Can you coat over an existing industrial floor?', a: ['If the existing coating is well bonded and compatible, it can often be abraded and recoated. Coatings that are lifting, heavily contaminated or incompatible must be removed by grinding or shot blasting first.'] },
+    { q: "What happens if moisture readings are too high?", a: ["We do not coat over excessive moisture with a standard primer. Options include moisture vapor mitigation primers designed for high readings or breathable systems such as urethane cement. The readings and the chosen solution are documented before work continues."] },
+    { q: "Can you mark equipment zones and work cells in different colors?", a: ["Yes. Many plants use color to separate production cells, storage, maintenance areas and walkways. Colors are built into the coating so they wear evenly, and the layout is reviewed with your team before anything is applied."] },
+  ],
+  related: ['warehouse-floor-coatings', 'commercial-epoxy-flooring', 'concrete-floor-preparation-repair', 'polyurea-floor-coatings'],
+  cta: {
+    h2: 'Talk through your industrial floor',
+    body: ['Share the facility type, rough area and what the floor deals with day to day. We will set up a site survey and put the recommendation in writing.'],
+    preset: 'Industrial or warehouse floor',
+  },
+};

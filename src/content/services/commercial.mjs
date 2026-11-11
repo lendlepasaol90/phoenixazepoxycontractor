@@ -1,0 +1,136 @@
+import { sliders, pairs } from '../shared.mjs';
+
+export default {
+  slug: 'commercial-epoxy-flooring',
+  navLabel: 'Commercial Epoxy Flooring',
+  menuNote: 'Retail, showrooms, offices, salons and kitchens',
+  title: 'Commercial Epoxy Flooring Phoenix AZ | Retail, Office & Showroom Floors',
+  description:
+    'Commercial epoxy and resinous floors in Phoenix for retail stores, showrooms, offices, salons, clinics and restaurants. After-hours scheduling, slip-resistant options and free estimates.',
+  h1: 'Commercial epoxy flooring that keeps your doors open',
+  serviceType: 'Commercial floor coating',
+  hero: {
+    variant: 'offset',
+    img: 'retail',
+    alt: 'Bright boutique interior with clothing racks, white lounge chairs and a pale seamless floor',
+    inset: 'flake-texture-tan',
+    insetAlt: 'Tan flake texture sample',
+    lede: 'Business floors have to look good to customers, survive constant traffic and fit around opening hours. We plan commercial projects around all three, with systems sized to the traffic your space actually sees.',
+  },
+  facts: [
+    ['Spaces', 'Retail, showrooms, offices, salons, clinics, restaurants'],
+    ['Scheduling', 'Phased, evening and weekend work available'],
+    ['Options', 'Solid, flake, quartz, metallic, slip-resistant textures'],
+  ],
+  card: {
+    img: 'retail',
+    alt: 'Retail interior with seamless floor',
+    blurb: 'Retail, office, salon and showroom floors scheduled around business hours.',
+  },
+  blocks: [
+    {
+      type: 'prose',
+      h2: 'A floor is part of how customers judge a business',
+      body: [
+        'People notice floors more than they realize. A clean, bright, seamless floor tells a customer the space is cared for. A cracked, stained slab or a peeling coating says the opposite, even if everything else in the room is well done.',
+        'For a business, though, appearance is only part of the decision. The floor has to handle carts, chairs, foot traffic and cleaning crews. It needs to be safe when someone tracks in rain during a monsoon storm. And the installation itself cannot shut the business down for a week. Every commercial proposal we write addresses those questions along with color and finish.',
+        'Commercial spaces also vary much more than homes. A boutique, a dental office and a restaurant prep kitchen need different systems even if they are the same size. The sections below explain how we match the floor to the use.',
+      ],
+    },
+    {
+      type: 'cards',
+      h2: 'Commercial spaces we work in',
+      cols: 3,
+      items: [
+        { img: 'car-showroom', alt: 'Vehicle showroom with reflective floor', h3: 'Showrooms and retail', body: 'High-gloss or metallic floors that make products look their best, with topcoats chosen to handle constant foot traffic and display moves.' },
+        { img: 'hall-gloss', alt: 'Bright open office space with glossy floor', h3: 'Offices and studios', body: 'Satin solids and fine flake systems that suit modern workspaces and stand up to rolling chairs better than polished concrete or carpet.' },
+        { img: 'salon', alt: 'Salon with styling chairs and a colored resinous floor', h3: 'Salons and spas', body: 'Seamless surfaces resist hair dye, chemicals and water, and color can be matched to the brand rather than settling for gray.' },
+        { img: 'kitchen-commercial', alt: 'Stainless steel commercial kitchen', h3: 'Restaurants and kitchens', body: 'Back-of-house areas need slip resistance, thermal shock tolerance and cove base for sanitation. Urethane cement systems are often the right choice here.' },
+        { img: 'clinic-corridor', alt: 'Clean clinic corridor with light floor', h3: 'Clinics and labs', body: 'Seamless, cleanable floors with integral cove base help simplify cleaning protocols in exam rooms, corridors and utility areas.' },
+        { img: 'auto-shop-lifts', alt: 'Auto service bays with gray floor and striping', h3: 'Auto service and detailing', body: 'Chemical-resistant floors with bay striping and lift outlines that brighten work areas and clean up quickly after spills.' },
+      ],
+    },
+    {
+      type: 'table',
+      h2: 'Matching the system to the traffic',
+      intro: 'A rough guide to how we think about commercial floors. Final recommendations depend on the slab, chemicals and cleaning methods.',
+      head: ['Traffic level', 'Examples', 'Typical system', 'Notes'],
+      rows: [
+        ['Light', 'Private offices, studios, galleries', 'Primer, solid or metallic body coat, urethane topcoat', 'Focus is on appearance and easy cleaning'],
+        ['Moderate', 'Retail floors, salons, clinics, showrooms', 'Multi-coat flake or quartz with polyaspartic or urethane top', 'Texture where water or spills are likely'],
+        ['Heavy', 'Service bays, back-of-house, loading areas', 'Thicker broadcast or troweled systems, chemical-resistant top', 'May need novolac or urethane cement in some areas'],
+        ['Wet and hot', 'Commercial kitchens, wash rooms', 'Urethane cement with cove base', 'Tolerates hot water washdown and thermal shock'],
+      ],
+    },
+    {
+      type: 'beforeafter',
+      h2: 'Commercial before and after',
+      intro: 'A rendered retail showroom shows how the same space reads with a worn slab versus a pearl metallic floor. The photo pair compares a raw office floor with a finished commercial space.',
+      slider: sliders.showroom,
+      pairs: [pairs.commercial],
+    },
+    {
+      type: 'split',
+      h2: 'Working around your business hours',
+      img: 'crew-commercial',
+      alt: 'Installer rolling a coating onto a concrete floor in a commercial space',
+      body: [
+        'Downtime is the cost most businesses worry about. Where possible we phase large floors so part of the space stays open, and we schedule grinding and coating for evenings, weekends or planned closures.',
+        'Fast-curing chemistries help. Polyaspartic and some urethane systems can return to light traffic in hours rather than days. Where a slower epoxy is the better product, we plan around its cure rather than rushing it.',
+        'Before work begins, we agree on the sequence: which areas close first, where fixtures and inventory go, how dust and odor are controlled near occupied spaces, and when each zone will be ready to reopen.',
+      ],
+      list: ['Phased layouts to keep part of the space open', 'Evening and weekend scheduling', 'Dust-controlled grinding near occupied areas', 'Agreed reopen times for each zone'],
+    },
+    {
+      type: 'list',
+      h2: 'Details that matter in commercial work',
+      items: [
+        { h3: 'Slip resistance', body: 'Entries, restrooms, kitchens and anywhere water appears get aggregate in the topcoat. We will show you texture samples so you can feel the difference.' },
+        { h3: 'Cleaning chemicals', body: 'Ask your cleaning crew what they use. Some degreasers and disinfectants are harder on finishes than others, and the topcoat should be chosen with them in mind.' },
+        { h3: 'Cove base and edges', body: 'Integral cove base carries the floor a few inches up the wall, which removes the crack where dirt and water collect.' },
+        { h3: 'Expansion and control joints', body: 'Larger commercial slabs have joints that need to keep working. They are filled with flexible material rather than buried under rigid coating.' },
+        { h3: 'Brand color and logos', body: 'Solid colors can be matched to brand palettes, and simple logos or zone markings can be laid into the floor.' },
+        { h3: 'Phoenix heat in unconditioned spaces', body: 'Storage rooms and warehouses without air conditioning can see extreme slab temperatures, which changes both product choice and the time of day we install.' },
+      ],
+    },
+    {
+      type: 'checklist',
+      h2: 'What helps us give an accurate commercial quote',
+      intro: 'You do not need all of this to start. The more we know, the tighter the estimate.',
+      items: [
+        'Approximate square footage and a floor plan if you have one',
+        'What is on the floor now: bare slab, tile, VCT, carpet or coating',
+        'Hours of operation and any windows for closure',
+        'Type of traffic: foot only, carts, pallet jacks or vehicles',
+        'Cleaning products and methods used by your staff or vendor',
+        'Any brand color, logo or zoning requirements',
+        'Landlord or property manager requirements for the work',
+        'Whether the space is air-conditioned during installation',
+      ],
+    },
+    {
+      type: 'prose',
+      h2: 'Comparing a coated floor with other commercial options',
+      body: [
+        'Most business owners weighing a resinous floor are also looking at polished concrete, luxury vinyl tile, porcelain tile or commercial carpet. Each has a place. Polished concrete can be economical and low-maintenance on a slab in excellent condition, but it shows every patch, crack and stain from the life of the building, and it does not resist chemicals the way a coating does. Vinyl tile installs quickly and comes in many looks, but its seams collect dirt and it can be gouged by carts and chair legs. Tile is durable and attractive, though grout lines need ongoing cleaning and broken tiles are noticeable.',
+        'A coated floor sits somewhere in the middle. It is seamless, so there is nowhere for dirt or water to settle. It can be patched in place, recoated without removal, and colored to suit a brand. Its weaknesses are mainly about preparation and selection: the wrong system in the wrong space can wear quickly, and a poorly prepared slab can delaminate. That is why our proposals spend as much time on the slab and the traffic as on the color.',
+        'For tenant spaces, it is also worth asking what happens when the lease ends. Some landlords prefer a coated floor that can be left in place; others require a return to bare concrete. Knowing that early affects what we recommend.',
+      ],
+    },
+  ],
+  faqs: [
+    { q: 'How long will my business need to close?', a: ['It depends on size, system and how much prep the slab needs. Small spaces with fast-cure systems can sometimes be done over a weekend. Larger floors are usually phased so the business keeps operating. We will lay out the schedule in the proposal.'] },
+    { q: 'Can you coat over VCT or existing tile?', a: ['In most cases the tile and its adhesive need to come off so the coating bonds to concrete. Coating over VCT tends to fail at the tile joints. We can handle removal as part of the job.'] },
+    { q: 'What is the best floor for a restaurant kitchen?', a: ['For hot, wet, greasy kitchens, urethane cement is usually the strongest choice because it handles thermal shock from hot water and steam better than standard epoxy. Dining rooms and front-of-house areas often use a decorative epoxy or flake system instead.'] },
+    { q: 'Do you offer metallic floors for commercial spaces?', a: ['Yes. Metallic epoxy is popular in showrooms, salons, lobbies and boutiques. It needs a protective topcoat suited to commercial traffic and occasional recoating in the busiest walkways.'] },
+    { q: 'Can the floor include safety markings?', a: ['Yes. Lines, walkways, bay outlines and directional markings can be laid into the system with durable coatings rather than paint or tape that wears off quickly.'] },
+    { q: 'How do you keep dust and odor away from open parts of the business?', a: ['Work areas are sealed off with plastic barriers, grinding is done with HEPA-filtered dust extraction, and we choose low-odor products where the system allows. For sensitive spaces such as clinics or food service, we schedule the dustiest and smelliest steps outside business hours.'] },
+    { q: "Can a coated floor match our brand colors?", a: ["Solid-color systems can be tinted to closely match most brand colors, and accent colors can be used for borders, logos or zone markings. We apply a sample on site so you can approve the color under your own lighting before the full floor is coated."] },
+  ],
+  related: ['industrial-epoxy-flooring', 'metallic-epoxy-flooring', 'polyaspartic-floor-coatings', 'warehouse-floor-coatings'],
+  cta: {
+    h2: 'Let’s plan your commercial floor',
+    body: ['Tell us about the space, your hours and the traffic it sees. We will visit, look at the slab and propose a system and a schedule that fits around your business.'],
+    preset: 'Commercial space',
+  },
+};

@@ -1,0 +1,131 @@
+export default {
+  slug: 'polyurea-floor-coatings',
+  navLabel: 'Polyurea Floor Coatings',
+  menuNote: 'Flexible, fast-setting coatings and joint fill',
+  title: 'Polyurea Floor Coatings Phoenix AZ | Flexible, Fast-Curing Floor Systems',
+  description:
+    'Polyurea floor coatings in Phoenix explained clearly: pure, hybrid and polyaspartic systems, joint and crack filling, and where flexibility and fast cure help most. Free estimates.',
+  h1: 'Polyurea floor coatings, without the marketing fog',
+  serviceType: 'Polyurea floor coating',
+  hero: {
+    variant: 'band',
+    img: 'shop-reflect',
+    alt: 'Bright vehicle workshop with overhead equipment reflected in a glossy light coated floor',
+    lede: 'Polyurea is one of the most talked-about words in floor coatings and one of the least explained. Here is what it actually means, where its flexibility and speed help, and how it fits into the systems we install.',
+  },
+  facts: [
+    ['Known for', 'Flexibility, impact tolerance, very fast cure'],
+    ['Where it helps', 'Base coats, joint and crack fill, high-movement slabs'],
+    ['Often paired with', 'Polyaspartic topcoats in one-day systems'],
+  ],
+  card: {
+    img: 'shop-reflect',
+    alt: 'Glossy workshop floor',
+    blurb: 'Flexible, fast-setting polyurea base coats, joint fill and hybrid systems.',
+  },
+  blocks: [
+    {
+      type: 'prose',
+      h2: 'Polyurea, polyaspartic, hybrid: what is the difference?',
+      body: [
+        'Polyurea is a chemistry family formed when an isocyanate reacts with an amine. True, or pure, polyurea reacts in seconds. It is typically sprayed through heated, plural-component equipment and is used for truck bed liners, roof coatings, tank linings and waterproofing. On floors it is less common in residential work because it sets too fast to trowel or roll and its surface can be harder to finish smoothly.',
+        'Polyaspartic is a modified aliphatic polyurea. Its reaction is slowed enough that it can be mixed and rolled by hand, and its aliphatic structure resists UV yellowing. When residential coating companies advertise a "polyurea floor", what they usually install is a hand-applied polyurea base coat, a polyaspartic system, or a combination of the two.',
+        'None of that makes one product good and another bad. It just means the label alone tells you very little. What matters is what each layer is, how thick it is, and whether the slab was prepared properly underneath it. A clear, layer-by-layer proposal is the easiest way to cut through the terminology.',
+      ],
+    },
+    {
+      type: 'table',
+      h2: 'The three kinds of "polyurea" you will hear about',
+      head: ['Type', 'How it is applied', 'Strengths', 'Trade-offs'],
+      rows: [
+        ['Pure (spray) polyurea', 'Heated plural-component spray rig', 'Sets in seconds; very flexible and tough; tolerates wide temperatures', 'Specialized equipment; harder to achieve a smooth decorative finish'],
+        ['Hand-applied polyurea base coats', 'Mixed and rolled or squeegeed', 'Fast cure, good flexibility and adhesion for one-day systems', 'Short working time; must be paired with a UV-stable topcoat'],
+        ['Polyaspartic (aliphatic polyurea)', 'Mixed and rolled or squeegeed', 'UV-stable, fast cure, abrasion resistant, clear or pigmented', 'Short pot life in heat; less build per coat than epoxy'],
+      ],
+    },
+    {
+      type: 'list',
+      h2: 'Properties that make polyurea useful',
+      intro: 'These are the characteristics that make polyurea chemistry worth considering, and the situations where they matter.',
+      img: 'warehouse-shine',
+      alt: 'Empty warehouse with polished floor reflecting the roof structure',
+      items: [
+        { h3: 'Flexibility', body: 'Polyurea stretches more than epoxy before cracking. On slabs that move with Phoenix temperature swings, a more flexible layer handles small movements better.' },
+        { h3: 'Impact resistance', body: 'Dropped tools and equipment are less likely to chip a tougher, more elastic coating.' },
+        { h3: 'Fast cure across temperatures', body: 'Polyurea and polyaspartic chemistries keep curing at temperatures where some epoxies slow down, and they cure quickly in heat.' },
+        { h3: 'Joint and crack filling', body: 'Semi-rigid polyurea fillers are a standard way to rebuild control joints in garages and warehouses because they support wheel loads while allowing slight movement.' },
+        { h3: 'Chemical resistance', body: 'Good resistance to many automotive fluids and household chemicals, with specific resistance depending on formulation.' },
+      ],
+    },
+    {
+      type: 'split',
+      h2: 'Where we use polyurea in practice',
+      flip: true,
+      img: 'crew-prep',
+      alt: 'Installer spreading a fresh coating across a prepared concrete floor',
+      body: [
+        'In most of our residential work, polyurea shows up in two places. The first is crack and joint repair. Polyurea fillers set quickly, can be shaved flush in minutes and keep a degree of flexibility, which makes them ideal for prepping a garage slab before the coating system goes down.',
+        'The second is as a base coat in fast-cure systems. A hand-applied polyurea base, followed by a flake broadcast and a polyaspartic topcoat, gives a floor that can be completed in a day and that tolerates slab movement well.',
+        'On commercial and industrial projects, polyurea joint fillers protect joint edges from forklift and pallet jack wheels, and some specialty areas may call for spray-applied systems. We recommend them where they truly fit rather than as a default.',
+      ],
+      list: ['Crack and control joint filling', 'Fast-cure base coats in one-day systems', 'Joint edge protection in warehouses', 'Specialty spray systems where specified'],
+    },
+    {
+      type: 'checklist',
+      h2: 'Questions to ask about any polyurea quote',
+      intro: 'If you are comparing estimates, these questions will tell you what is really being installed.',
+      items: [
+        'Is the base coat polyurea, polyaspartic or epoxy?',
+        'What is the topcoat, and is it UV-stable?',
+        'How will the concrete be prepared: grinding or etching?',
+        'How many coats, and roughly how thick is the finished system?',
+        'How are cracks and control joints handled?',
+        'What happens if moisture testing shows high readings?',
+        'What are the realistic times for walking and parking?',
+        'What does the warranty actually cover, and what does it exclude?',
+      ],
+    },
+    {
+      type: 'prose',
+      h2: 'Polyurea in the Phoenix heat',
+      body: [
+        'Fast-reacting chemistry and 110-degree afternoons are a demanding combination. Material that sets in the bucket or on the roller produces a rough, poorly bonded floor. Summer polyurea and polyaspartic installs therefore start early, with small mixes, shaded material and continuous checks on slab temperature.',
+        'The flip side is that once installed, polyurea-based floors handle heat well. Their flexibility helps on slabs that expand and contract through the day, and with a UV-stable polyaspartic topcoat, they keep their color near open garage doors and on covered patios.',
+      ],
+    },
+    {
+      type: 'prose',
+      h2: 'How polyurea fits into a complete floor system',
+      body: [
+        'Thinking of polyurea as a whole floor can be misleading. In practice it is one layer, or one material, inside a system, and the rest of that system determines how the floor looks and lasts. A typical fast-cure garage might use polyurea crack filler, a polyurea or polyaspartic pigmented base coat, a full flake broadcast and a polyaspartic clear topcoat. Change any one of those layers and the floor behaves differently.',
+        'The base coat is where flexibility and adhesion matter most. It must wet out the ground concrete thoroughly and hold onto it through temperature cycles. The topcoat is where UV stability and abrasion resistance matter most. Using polyurea where its strengths count and polyaspartic where UV exposure demands it is how we get the best from both.',
+        'Thickness counts too. Fast-curing materials can be applied thinner than they should be if a crew is racing the pot life. We apply at the coverage rates the manufacturer specifies and, on larger jobs, check wet film thickness as we go.',
+        'Finally, there is the question of what goes underneath. No chemistry, however advanced, bonds well to a sealed, oily or weak surface. Diamond grinding is just as important before a polyurea base coat as before an epoxy one.',
+      ],
+    },
+    {
+      type: 'callout',
+      h2: 'The short version',
+      body: [
+        'Polyurea is a useful chemistry with real strengths: flexibility, fast cure and toughness. It is most valuable as part of a well-designed system on properly ground concrete. If a quote leans heavily on the word polyurea, ask what each layer is, and judge the floor by its preparation, thickness and topcoat.',
+      ],
+    },
+  ],
+  faqs: [
+    { q: 'Is polyurea better than epoxy for a garage?', a: ['It depends on the slab and how quickly you need the space. Polyurea and polyaspartic systems cure faster and are more UV-stable and flexible; epoxy builds thickness and bonds very strongly. A well-built floor of either kind, on properly ground concrete, will outperform a poorly installed floor of the other.'] },
+    { q: 'Is a polyurea floor really "four times stronger than epoxy"?', a: ['Claims like that usually compare one specific property, such as flexibility, under lab conditions. Real-world performance depends far more on preparation, thickness and topcoat than on a single headline number. Ask what each layer is and how the slab will be prepared.'] },
+    { q: 'Do you spray polyurea?', a: ['Most of our floor work uses hand-applied polyurea and polyaspartic products, which suit decorative residential and commercial floors. If a project specifically calls for spray-applied polyurea, we will discuss whether it is the right fit for the application.'] },
+    { q: 'Can polyurea be used outdoors?', a: ['Aromatic polyurea can discolor in sunlight, so outdoor systems use a UV-stable polyaspartic or aliphatic topcoat over the polyurea layers.'] },
+    { q: 'Does polyurea crack-filling stop cracks from coming back?', a: ['It fills and stabilizes the crack at the surface, but it cannot stop a slab from moving. Active cracks may still show through the coating over time. We point those out during the estimate.'] },
+    { q: 'Is a polyurea floor more expensive than epoxy?', a: ['Material costs are often higher, but the faster schedule can offset some of that by reducing labor days. The total depends on the slab, the system and the size of the area. We price each option clearly so you can compare.'] },
+    { q: "Can polyurea handle a hot Phoenix garage?", a: ["Once cured, polyurea-based systems handle heat well and their flexibility helps on slabs that expand and contract daily. As with any garage floor, a UV-stable topcoat is needed near the door, and preparation determines how well the system resists hot-tire pickup."] },
+    { q: "How quickly can I use a polyurea floor?", a: ["Foot traffic is usually possible within hours and vehicles typically within about a day or two, depending on the products and the temperature. We confirm exact timing at the walkthrough."] },
+    { q: "Will a polyurea floor yellow in the sun?", a: ["Aromatic polyurea layers can darken with UV exposure, so they are always covered by a UV-stable topcoat, usually polyaspartic or aliphatic urethane. That top layer protects the color of everything beneath it, including flake and pigmented base coats."] },
+  ],
+  related: ['polyaspartic-floor-coatings', 'concrete-floor-preparation-repair', 'garage-epoxy-flooring', 'industrial-epoxy-flooring'],
+  cta: {
+    h2: 'Get a straight answer on your floor',
+    body: ['Tell us about the slab and the space. We will explain which chemistry fits, layer by layer, and put it in writing so you can compare quotes on equal terms.'],
+    preset: 'Polyurea coating',
+  },
+};
