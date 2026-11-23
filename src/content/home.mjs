@@ -211,7 +211,7 @@ export function homePage(services) {
   <div class="wrap">
     <div class="section-head reveal">
       <h2 id="prep-h">Concrete preparation and floor coatings</h2>
-      <p>Coatings stick to concrete, not to dust, sealers or laitance. Before anything is applied, the slab is diamond-ground to an open, consistent profile. Cracks are routed and filled, spalls are rebuilt, and moisture readings tell us which primer belongs on the floor. Pick a system below to see what goes into it, layer by layer.</p>
+      <p>Coatings stick to concrete, not to dust, sealers or laitance. Before anything is applied, the slab is diamond-ground to an open, consistent profile. Cracks are routed and filled, spalls are rebuilt, and moisture readings tell us which primer belongs on the floor. That prep-first approach is what separates a lasting <a href="https://killeenepoxypros.com/concrete-floor-coating">concrete floor coating</a> from one that peels. Pick a system below to see what goes into it, layer by layer.</p>
     </div>
     <div class="reveal">${layerDiagram()}</div>
     <p class="reveal" style="margin-top:1.5rem;max-width:72ch;color:var(--basalt-2)">Need prep or repair on its own, ahead of tile, polished concrete or another trade? See <a href="/concrete-floor-preparation-repair/">concrete floor preparation and repair</a> or our broader <a href="/concrete-floor-coatings/">concrete floor coatings</a> options.</p>
